@@ -1,2 +1,2 @@
 # moowix.github.io
-Курсы по веб-разработке
+Portfolio by Stas Seryakov.
